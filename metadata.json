@@ -1,0 +1,8 @@
+{
+  "name": "InvoiceCraft",
+  "description": "Create professional, client-ready business invoices instantly with live preview, PDF export, and custom branding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
